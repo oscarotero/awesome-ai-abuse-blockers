@@ -3,4 +3,11 @@
 - Anubis - https://anubis.techaro.lol
 - Versara - https://versara.ai/about
 - Go Away - https://git.gammaspectra.live/git/go-away
+
+## Other methods
+
 - Poisoning Well - https://heydonworks.com/article/poisoning-well/
+
+## Commercial products
+
+- Dark visitors: https://darkvisitors.com/
