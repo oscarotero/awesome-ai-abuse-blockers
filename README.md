@@ -5,3 +5,4 @@
 - Poisoning Well - https://heydonworks.com/article/poisoning-well/
 - Versara - https://versara.ai/
 - Dark visitors: https://darkvisitors.com/
+- Zip bombs: https://idiallo.com/blog/zipbomb-protection
