@@ -6,3 +6,4 @@
 - Versara - https://versara.ai/
 - Dark visitors: https://darkvisitors.com/
 - Zip bombs: https://idiallo.com/blog/zipbomb-protection
+- Nepenthes: https://zadzmo.org/code/nepenthes/
