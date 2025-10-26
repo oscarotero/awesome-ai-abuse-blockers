@@ -9,3 +9,4 @@
 - Nepenthes: https://zadzmo.org/code/nepenthes/
 - fail2ban+caddy illiterate link: https://codeberg.org/iacore/caddy-fail2ban-pf
 - ai.robots.txt: https://github.com/ai-robots-txt/ai.robots.txt
+- Markov babbler: https://maurycyz.com/projects/trap_bots/
