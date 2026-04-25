@@ -12,3 +12,5 @@
 - Markov babbler: https://maurycyz.com/projects/trap_bots/
 - Blocking LLM crawlers, without JavaScript: https://www.owl.is/blogg/blocking-crawlers-without-javascript/
 - Supercazzola - Generate spam for web scrapers: https://dacav.org/projects/supercazzola/
+- iocaine - The deadliest poison known to AI: https://iocaine.madhouse-project.org/
+
