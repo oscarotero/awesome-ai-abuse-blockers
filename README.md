@@ -12,3 +12,4 @@
 - Blocking LLM crawlers, without JavaScript: https://www.owl.is/blogg/blocking-crawlers-without-javascript/ ([archived](https://web.archive.org/web/20260304050422/https://www.owl.is/blogg/blocking-crawlers-without-javascript/))
 - Supercazzola - Generate spam for web scrapers: https://dacav.org/projects/supercazzola/
 - iocaine - The deadliest poison known to AI: https://iocaine.madhouse-project.org/
+- ai.robots.txt: https://github.com/ai-robots-txt/ai.robots.txt
