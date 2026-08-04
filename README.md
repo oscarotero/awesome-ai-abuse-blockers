@@ -13,3 +13,4 @@
 - Supercazzola - Generate spam for web scrapers: https://dacav.org/projects/supercazzola/
 - iocaine - The deadliest poison known to AI: https://iocaine.madhouse-project.org/
 - ai.robots.txt: https://github.com/ai-robots-txt/ai.robots.txt
+- ShieldFont - A typeface that protects written content by poisoning unauthorized AI training datasets. https://shieldfont.org/
